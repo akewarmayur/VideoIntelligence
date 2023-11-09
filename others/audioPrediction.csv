@@ -1,0 +1,41 @@
+,FileName,StartTime,EndTime,Top3Predictions,Score
+0,1_0_2.wav,1,0,"Explosion:Burst, pop:Vehicle:Eruption",0.14776573:0.12057133:0.11582004:0.1092812
+1,1_2_4.wav,1,2,Vehicle:Motor vehicle (road):Mechanisms:Car,0.17886391:0.09372322:0.08390482:0.071311176
+2,1_4_6.wav,1,4,Vehicle:Bus:Motor vehicle (road):Mechanisms,0.27926028:0.10764934:0.079672:0.052970644
+3,1_6_8.wav,1,6,Vehicle:Bus:Motor vehicle (road):Car,0.22471942:0.15521199:0.096454404:0.06588876
+4,1_8_10.wav,1,8,Music:Vehicle:Bus:Sound effect,0.41631818:0.085352205:0.03662178:0.028600834
+5,1_10_12.wav,1,10,Music:Electronic music:Techno:Sound effect,0.8785328:0.02551696:0.014397144:0.013484264
+6,1_12_14.wav,1,12,Music:Vehicle:Rattle:Motor vehicle (road),0.6603012:0.039049663:0.027176151:0.025161123
+7,1_14_16.wav,1,14,Music:Vehicle:Ship:Speech,0.2619818:0.09664932:0.059531894:0.045598164
+8,1_16_18.wav,1,16,"Music:Explosion:Burst, pop:Boom",0.21422565:0.10105618:0.09221618:0.081819594
+9,1_18_20.wav,1,18,Boom:Explosion:Clip-clop:Music,0.44321078:0.30712447:0.062630996:0.044798177
+10,1_20_22.wav,1,20,Music:Vehicle:Percussion:Speech,0.26436478:0.05305596:0.03294685:0.02820667
+11,1_22_24.wav,1,22,"Music:Heart sounds, heartbeat:Throbbing:Heart murmur",0.22970831:0.14598231:0.13699472:0.05618936
+12,1_24_26.wav,1,24,Music:Squish:Glass:Drip,0.45208135:0.036018007:0.028364448:0.027726773
+13,1_26_28.wav,1,26,Tap:Music:Speech:Door,0.09034255:0.08064954:0.0746623:0.064912476
+14,1_28_30.wav,1,28,"Music:Speech:Boat, Water vehicle:Vehicle",0.17027943:0.052418806:0.049108714:0.043822233
+15,1_30_32.wav,1,30,"Music:Inside, large room or hall:Speech:Sound effect",0.16760671:0.031887308:0.027980978:0.019916998
+16,1_32_34.wav,1,32,"Throbbing:Heart sounds, heartbeat:Noise:Music",0.26963174:0.23564796:0.15278757:0.09444279
+17,1_34_36.wav,1,34,"Speech:Heart sounds, heartbeat:Whale vocalization:Explosion",0.1379846:0.042472553:0.03559672:0.03204729
+18,1_36_38.wav,1,36,"Heart sounds, heartbeat:Throbbing:Heart murmur:Noise",0.2894767:0.17278133:0.09919843:0.09131193
+19,1_38_40.wav,1,38,"Heart sounds, heartbeat:Speech:Heart murmur:Throbbing",0.34559283:0.24546641:0.23611961:0.15293798
+20,1_40_42.wav,1,40,"Heart sounds, heartbeat:Speech:Heart murmur:Music",0.14263114:0.07695596:0.039043576:0.023286631
+21,1_42_44.wav,1,42,"Speech:Music:Burst, pop:Yell",0.14106402:0.10626031:0.03316908:0.03298778
+22,1_44_46.wav,1,44,Music:Electronic music:Speech:Explosion,0.13953519:0.022456637:0.019727344:0.019336121
+23,1_46_48.wav,1,46,"Music:Speech:Inside, large room or hall:Crowd",0.13920681:0.101029195:0.050844036:0.03700036
+24,1_48_50.wav,1,48,Music:Speech:Siren:Alarm,0.44816086:0.021647666:0.014477655:0.013682261
+25,1_50_52.wav,1,50,Music:Emergency vehicle:Police car (siren):Siren,0.23140477:0.111258745:0.090180285:0.07581886
+26,1_52_54.wav,1,52,"Speech:Music:Narration, monologue:Inside, large room or hall",0.91606486:0.2253769:0.012858833:0.0022124394
+27,1_54_56.wav,1,54,"Speech:Music:Domestic animals, pets:Dog",0.67176706:0.100253604:0.004696475:0.0041628745
+28,1_56_58.wav,1,56,"Music:Speech:Outside, urban or manmade:Vehicle",0.3234048:0.06024573:0.015582016:0.011703221
+29,1_58_60.wav,1,58,Music:Jazz:Speech:Brass instrument,0.45240188:0.016607339:0.014458519:0.009946947
+30,1_60_62.wav,1,60,"Speech:Music:Narration, monologue:Television",0.67782366:0.26522106:0.00201867:0.0019504859
+31,1_62_64.wav,1,62,"Music:Speech:Inside, large room or hall:Inside, small room",0.27188325:0.22202861:0.011519347:0.009516104
+32,1_64_66.wav,1,64,Music:Musical instrument:Orchestra:Jazz,0.7826154:0.015447729:0.011971049:0.010189663
+33,1_66_68.wav,1,66,Music:Speech:Tender music:Singing,0.60315275:0.027186684:0.010123802:0.005552962
+34,1_68_70.wav,1,68,Speech:Music:Lullaby:Singing,0.25601318:0.09311437:0.04260801:0.0265344
+35,1_70_72.wav,1,70,Music:Speech:Timpani:Percussion,0.3823178:0.045235235:0.013504687:0.013041748
+36,1_72_74.wav,1,72,"Speech:Music:Outside, urban or manmade:Vehicle",0.2763106:0.1927508:0.0028492806:0.0028444096
+37,1_74_76.wav,1,74,Speech:Music:Singing:Lullaby,0.24092066:0.11425893:0.02590777:0.02265877
+38,1_76_78.wav,1,76,"Music:Speech:Domestic animals, pets:Dog",0.22424744:0.03967139:0.03654617:0.030071285
+39,1_78_80.wav,1,78,Speech:Music:Dog:Bow-wow,0.59890807:0.06609468:0.04972641:0.049213305
