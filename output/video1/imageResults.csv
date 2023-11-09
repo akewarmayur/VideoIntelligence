@@ -16,24 +16,24 @@
 14,1,/content/output/7//FramesSavedHere/1/img_000015.png,street,low light,others,Buses,single,still
 15,1,/content/output/7//FramesSavedHere/1/img_000016.png,vehicles,others,others,Trains,others,others
 16,1,/content/output/7//FramesSavedHere/1/img_000017.png,blurry place,low light,others,Pedestrians,others,still
-17,1,/content/output/7//FramesSavedHere/1/img_000018.png,blurry place,red light,others,Hazmat Suits,others,still
+17,1,/content/output/7//FramesSavedHere/1/img_000018.png,blurry place,red light,others,Suits,others,still
 18,1,/content/output/7//FramesSavedHere/1/img_000019.png,vehicles,red light,others,Buses,single,others
 19,1,/content/output/7//FramesSavedHere/1/img_000020.png,vehicles,others,others,others,single,others
 20,1,/content/output/7//FramesSavedHere/1/img_000021.png,vehicles,others,others,Trains,single,others
 21,1,/content/output/7//FramesSavedHere/1/img_000022.png,vehicles,blue light,side,Buses,single,others
 22,1,/content/output/7//FramesSavedHere/1/img_000023.png,others,others,side,others,single,others
 23,1,/content/output/7//FramesSavedHere/1/img_000024.png,others,others,side,others,single,others
-24,1,/content/output/7//FramesSavedHere/1/img_000025.png,vehicles,night time,others,Abandoned Vehicles,others,still
-25,1,/content/output/7//FramesSavedHere/1/img_000026.png,vehicles,low light,others,Abandoned Vehicles,others,still
-26,1,/content/output/7//FramesSavedHere/1/img_000027.png,others,low light,others,Abandoned Vehicles,others,others
-27,1,/content/output/7//FramesSavedHere/1/img_000028.png,others,low light,closeup,Abandoned Vehicles,single,still
-28,1,/content/output/7//FramesSavedHere/1/img_000029.png,others,low light,closeup,Abandoned Vehicles,others,still
-29,1,/content/output/7//FramesSavedHere/1/img_000030.png,others,red light,others,Abandoned Vehicles,others,others
+24,1,/content/output/7//FramesSavedHere/1/img_000025.png,vehicles,night time,others,Vehicles,others,still
+25,1,/content/output/7//FramesSavedHere/1/img_000026.png,vehicles,low light,others,Vehicles,others,still
+26,1,/content/output/7//FramesSavedHere/1/img_000027.png,others,low light,others,Vehicles,others,others
+27,1,/content/output/7//FramesSavedHere/1/img_000028.png,others,low light,closeup,Vehicles,single,still
+28,1,/content/output/7//FramesSavedHere/1/img_000029.png,others,low light,closeup,Vehicles,others,still
+29,1,/content/output/7//FramesSavedHere/1/img_000030.png,others,red light,others,Vehicles,others,others
 30,1,/content/output/7//FramesSavedHere/1/img_000031.png,others,red light,others,Pedestrians,others,violence
 31,1,/content/output/7//FramesSavedHere/1/img_000032.png,others,others,side,others,single,others
 32,1,/content/output/7//FramesSavedHere/1/img_000033.png,others,others,side,others,single,others
 33,1,/content/output/7//FramesSavedHere/1/img_000034.png,others,others,side,others,single,others
-34,1,/content/output/7//FramesSavedHere/1/img_000035.png,others,others,others,Security Personnel,others,violence
+34,1,/content/output/7//FramesSavedHere/1/img_000035.png,others,others,others,Security,others,violence
 35,1,/content/output/7//FramesSavedHere/1/img_000036.png,others,others,others,others,others,others
 36,1,/content/output/7//FramesSavedHere/1/img_000037.png,others,low light,others,Pedestrians,single,violence
 37,1,/content/output/7//FramesSavedHere/1/img_000038.png,dark place,low light,others,others,others,violence
@@ -152,7 +152,7 @@
 150,2,/content/output/7//FramesSavedHere/2/img_000071.png,vehicles,red light,others,Trains,single,others
 151,2,/content/output/7//FramesSavedHere/2/img_000072.png,others,blue light,others,Pedestrians,single,others
 152,2,/content/output/7//FramesSavedHere/2/img_000073.png,others,red light,closeup,Pedestrians,single,violence
-153,2,/content/output/7//FramesSavedHere/2/img_000074.png,others,blue light,closeup,"Protective Barriers (e.g., Bollards)",single,violence
+153,2,/content/output/7//FramesSavedHere/2/img_000074.png,others,blue light,closeup,Barriers,single,violence
 154,2,/content/output/7//FramesSavedHere/2/img_000075.png,others,others,others,others,single,others
 155,2,/content/output/7//FramesSavedHere/2/img_000076.png,others,others,others,Pedestrians,others,others
 156,2,/content/output/7//FramesSavedHere/2/img_000077.png,others,others,others,Buses,single,others
@@ -273,7 +273,7 @@
 271,3,/content/output/7//FramesSavedHere/3/img_000114.png,others,others,others,Buses,single,others
 272,3,/content/output/7//FramesSavedHere/3/img_000115.png,others,others,others,Trains,others,violence
 273,3,/content/output/7//FramesSavedHere/3/img_000116.png,blurry place,others,others,Buses,single,others
-274,3,/content/output/7//FramesSavedHere/3/img_000117.png,others,others,others,Hazmat Suits,single,others
+274,3,/content/output/7//FramesSavedHere/3/img_000117.png,others,others,others,Suits,single,others
 275,3,/content/output/7//FramesSavedHere/3/img_000118.png,others,others,others,others,others,others
 276,3,/content/output/7//FramesSavedHere/3/img_000119.png,others,others,others,Briefcases,others,still
 277,3,/content/output/7//FramesSavedHere/3/img_000120.png,others,others,others,Buses,others,expressions
@@ -338,13 +338,13 @@
 336,3,/content/output/7//FramesSavedHere/3/img_000179.png,others,others,others,others,single,others
 337,3,/content/output/7//FramesSavedHere/3/img_000180.png,others,others,others,Buses,group,transportation
 338,3,/content/output/7//FramesSavedHere/3/img_000181.png,others,others,others,Trains,group,transportation
-339,3,/content/output/7//FramesSavedHere/3/img_000182.png,others,others,others,Computers and IT Equipment,single,others
+339,3,/content/output/7//FramesSavedHere/3/img_000182.png,others,others,others,Computers,single,others
 340,3,/content/output/7//FramesSavedHere/3/img_000183.png,others,red light,others,others,single,others
 341,3,/content/output/7//FramesSavedHere/3/img_000184.png,bar,others,others,others,single,others
 342,3,/content/output/7//FramesSavedHere/3/img_000185.png,others,red light,others,others,single,others
 343,3,/content/output/7//FramesSavedHere/3/img_000186.png,others,others,others,Trains,group,transportation
 344,3,/content/output/7//FramesSavedHere/3/img_000187.png,others,others,others,Trains,group,transportation
-345,3,/content/output/7//FramesSavedHere/3/img_000188.png,others,others,others,Security Personnel,others,violence
+345,3,/content/output/7//FramesSavedHere/3/img_000188.png,others,others,others,Security,others,violence
 346,3,/content/output/7//FramesSavedHere/3/img_000189.png,others,others,others,Trains,group,transportation
 347,3,/content/output/7//FramesSavedHere/3/img_000190.png,others,others,others,Buses,others,others
 348,3,/content/output/7//FramesSavedHere/3/img_000191.png,bar,others,others,others,single,others
@@ -357,7 +357,7 @@
 355,3,/content/output/7//FramesSavedHere/3/img_000198.png,nightclub,others,others,others,single,others
 356,3,/content/output/7//FramesSavedHere/3/img_000199.png,others,others,others,Buses,single,others
 357,3,/content/output/7//FramesSavedHere/3/img_000200.png,others,others,others,Briefcases,single,others
-358,3,/content/output/7//FramesSavedHere/3/img_000201.png,others,others,others,Bags and Luggage,others,others
+358,3,/content/output/7//FramesSavedHere/3/img_000201.png,others,others,others,Luggage,others,others
 359,3,/content/output/7//FramesSavedHere/3/img_000202.png,others,others,others,others,others,others
 360,3,/content/output/7//FramesSavedHere/3/img_000203.png,blurry place,others,others,Trains,others,others
 361,3,/content/output/7//FramesSavedHere/3/img_000204.png,others,red light,others,Buses,single,others
@@ -403,8 +403,8 @@
 401,4,/content/output/7//FramesSavedHere/4/img_000028.png,others,others,others,Buses,group,transportation
 402,4,/content/output/7//FramesSavedHere/4/img_000029.png,others,others,others,Buses,others,transportation
 403,4,/content/output/7//FramesSavedHere/4/img_000030.png,others,others,others,Buses,single,transportation
-404,4,/content/output/7//FramesSavedHere/4/img_000031.png,others,others,front,Money or Cash Transactions,single,others
-405,4,/content/output/7//FramesSavedHere/4/img_000032.png,others,others,others,Hazardous Materials,single,others
+404,4,/content/output/7//FramesSavedHere/4/img_000031.png,others,others,front,Money,single,others
+405,4,/content/output/7//FramesSavedHere/4/img_000032.png,others,others,others,Hazardous,single,others
 406,4,/content/output/7//FramesSavedHere/4/img_000033.png,others,others,others,others,single,violence
 407,4,/content/output/7//FramesSavedHere/4/img_000034.png,others,others,others,Trains,single,substance use
 408,4,/content/output/7//FramesSavedHere/4/img_000035.png,others,others,others,Smoke,single,substance use

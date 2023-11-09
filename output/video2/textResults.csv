@@ -1,0 +1,70 @@
+,SceneNumber,StartTime,EndTime,Class
+0,1,"00:00:00,009","00:00:01,750",Questions and Answers
+1,1,"00:00:01,750","00:00:02,591",Speculation and Hypothetical
+2,1,"00:00:02,591","00:00:03,032",Speculation and Hypothetical
+3,1,"00:00:03,032","00:00:03,451",Expressions of Gratitude
+4,1,"00:00:03,451","00:00:06,714",Hesitation and Uncertainty
+5,1,"00:00:06,714","00:00:13,781",Emotional Content
+6,1,"00:00:13,781","00:00:14,621",Hesitation and Uncertainty
+7,1,"00:00:14,621","00:00:17,044",Hesitation and Uncertainty
+8,1,"00:00:17,044","00:00:19,065",Hesitation and Uncertainty
+9,1,"00:00:19,065","00:00:19,525",Hesitation and Uncertainty
+10,1,"00:00:26,765","00:00:29,047",Normal Conversational and Discussion
+11,1,"00:00:29,047","00:00:34,490",Speculation and Hypothetical
+12,1,"00:00:34,490","00:00:37,091",Speculation and Hypothetical
+13,1,"00:00:37,091","00:00:37,792",Speculation and Hypothetical
+14,1,"00:00:37,792","00:00:39,212",Expressions of Apology
+15,1,"00:00:39,212","00:00:41,753",Criticism and Feedback
+16,1,"00:00:41,753","00:00:43,654",Sarcasm and Irony
+17,1,"00:00:43,654","00:00:45,674",Speculation and Hypothetical
+18,1,"00:00:45,674","00:00:47,456",Expressions of Profanity
+19,1,"00:00:47,456","00:00:52,338",Personal Information
+20,1,"00:00:53,447","00:01:00,250",Expressions of Violence
+21,1,"00:01:00,250","00:01:07,811",Criticism and Feedback
+22,1,"00:01:07,811","00:01:09,132",Expressions of Profanity
+23,1,"00:01:15,093","00:01:17,436",Speculation and Hypothetical
+24,1,"00:01:17,436","00:01:19,338",Sarcasm and Irony
+25,1,"00:01:19,338","00:01:22,021",Expressions of Violence
+26,1,"00:01:22,021","00:01:24,944",Expressions of Violence
+27,1,"00:01:24,944","00:01:28,929",Personal Information
+28,1,"00:01:30,316","00:01:34,760",Expressions of Profanity
+29,1,"00:01:34,760","00:01:37,121",Expressions of Profanity
+30,1,"00:01:37,121","00:01:39,164",Expressions of Profanity
+31,1,"00:01:39,164","00:01:42,906",Criticism and Feedback
+32,1,"00:01:42,906","00:01:46,150",Sarcasm and Irony
+33,1,"00:01:46,150","00:01:47,772",Speculation and Hypothetical
+34,2,"00:00:00,009","00:00:01,750",Questions and Answers
+35,2,"00:00:01,750","00:00:02,591",Speculation and Hypothetical
+36,2,"00:00:02,591","00:00:03,032",Speculation and Hypothetical
+37,2,"00:00:03,032","00:00:03,451",Expressions of Gratitude
+38,2,"00:00:03,451","00:00:06,714",Hesitation and Uncertainty
+39,2,"00:00:06,714","00:00:13,781",Emotional Content
+40,2,"00:00:13,781","00:00:14,621",Hesitation and Uncertainty
+41,2,"00:00:14,621","00:00:17,044",Hesitation and Uncertainty
+42,2,"00:00:17,044","00:00:19,065",Hesitation and Uncertainty
+43,2,"00:00:19,065","00:00:19,525",Hesitation and Uncertainty
+44,2,"00:00:26,765","00:00:29,047",Normal Conversational and Discussion
+45,2,"00:00:29,047","00:00:34,490",Speculation and Hypothetical
+46,2,"00:00:34,490","00:00:37,091",Speculation and Hypothetical
+47,2,"00:00:37,091","00:00:37,792",Speculation and Hypothetical
+48,2,"00:00:37,792","00:00:39,212",Expressions of Apology
+49,2,"00:00:39,212","00:00:41,753",Criticism and Feedback
+50,2,"00:00:41,753","00:00:43,654",Sarcasm and Irony
+51,2,"00:00:43,654","00:00:45,674",Speculation and Hypothetical
+52,2,"00:00:45,674","00:00:47,456",Expressions of Profanity
+53,2,"00:00:47,456","00:00:52,338",Personal Information
+54,2,"00:00:53,447","00:01:00,250",Expressions of Violence
+55,2,"00:01:00,250","00:01:07,811",Criticism and Feedback
+56,2,"00:01:07,811","00:01:09,132",Expressions of Profanity
+57,2,"00:01:15,093","00:01:17,436",Speculation and Hypothetical
+58,2,"00:01:17,436","00:01:19,338",Sarcasm and Irony
+59,2,"00:01:19,338","00:01:22,021",Expressions of Violence
+60,2,"00:01:22,021","00:01:24,944",Expressions of Violence
+61,2,"00:01:24,944","00:01:28,929",Personal Information
+62,2,"00:01:30,316","00:01:34,760",Expressions of Profanity
+63,2,"00:01:34,760","00:01:37,123",Expressions of Profanity
+64,2,"00:01:37,123","00:01:39,165",Expressions of Profanity
+65,2,"00:01:39,165","00:01:42,909",Criticism and Feedback
+66,2,"00:01:42,909","00:01:46,153",Sarcasm and Irony
+67,2,"00:01:46,153","00:01:47,775",Speculation and Hypothetical
+68,2,"00:01:57,974","00:01:58,656",Expressions of Gratitude
