@@ -12,6 +12,39 @@ python main.py --video_path test_video.mp4 --videoId id1 --imageThreshold 20 --t
 * --imageThreshold: Threshold for classifying image content
 * --textThreshold: Threshold for classifying text content
 
+### Output
+#### Test Video 1
+##### Scene 1 Image Analysis
+![Screenshot](output/video1/scene1.png)
+##### Scene 1 Text Analysis
+![Screenshot](output/video1/texts1.png)
+
+##### Scene 2 Image Analysis
+![Screenshot](output/video1/scene2.png)
+##### Scene 2 Text Analysis
+![Screenshot](output/video1/texts2.png)
+
+##### Scene 3 Image Analysis
+![Screenshot](output/video1/scene3.png)
+##### Scene 3 Text Analysis
+![Screenshot](output/video1/texts3.png)
+
+##### Scene 4 Text Analysis
+![Screenshot](output/video1/texts4.png)
+
+
+### Output
+#### Test Video 2
+##### Scene 1 Image Analysis
+![Screenshot](output/video1/v2scene1.png)
+##### Scene 1 Text Analysis
+![Screenshot](output/video1/v1t1.png)
+
+##### Scene 2 Image Analysis
+![Screenshot](output/video1/v2scene2.png)
+##### Scene 2 Text Analysis
+![Screenshot](output/video1/v1t2.png)
+
 ### Citation
 If you find this code useful in your research, please consider citing it as:
 ```
